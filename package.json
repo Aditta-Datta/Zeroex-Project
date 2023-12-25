@@ -27,7 +27,6 @@
     "crypto": "latest",
     "crypto-js": "latest",
     "got": "^11.8.3",
-    "dongdev-fca-sp": "git+https://github.com/dongdev06/dongdev-fca-sp.git",
     "https-proxy-agent": "latest",
     "is-hexcolor": "^1.0.0",
     "lodash": "",
@@ -42,7 +41,6 @@
     "express": "latest",
     "readline": "latest",
     "totp-generator": "latest",
-    "synthetic-dongdev-database": "git+https://github.com/dongdev06/synthetic-dongdev-database.git"
   },
   "engines": {
     "node": ">=14.x"
